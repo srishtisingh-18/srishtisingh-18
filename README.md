@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Srshti Singh
+# 💫 Hi 👋, I'm Srishti Singh
 **Aspiring AI Engineer | B.Tech CSE | Generative AI • LLMs • RAG • LangChain & Langgraph • AI Agents | Building Intelligent Applications**
 
 Email Me 👉 ✉️ **thesrishtisingh18@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **thesrishtisingh18@gmail.com** For Collaboration/Project o
 - 🤔 **I’m looking for help with:** 
 - 📫 **How to reach me:** thesrishtisingh18@gmail.com
 - ⚡ **Fun fact:**
-- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srishti.singh18) [![LinkedIn](https://www.linkedin.com/in/srishti-singh-59a943381/)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thesrishtisingh01@gmail.com) 
 
